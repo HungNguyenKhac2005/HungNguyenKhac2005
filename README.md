@@ -1,7 +1,8 @@
 # 👋 Chào bạn đến với GitHub của tôi!
 
 ## 👤 **Thông tin về tôi**
-![Avatar](https://i.imgur.com/TpYuBS7.gif)
+<img src="https://i.imgur.com/TpYuBS7.gif" width="150" />
+
 
 Tôi là **[Tên của bạn]**, một **Data Developer** đam mê công nghệ và phân tích dữ liệu. Hiện tại, tôi đang học và làm việc trong lĩnh vực **AI và Machine Learning**. Mục tiêu của tôi là xây dựng những giải pháp dữ liệu mạnh mẽ và giúp các công ty giải quyết các vấn đề thực tế bằng công nghệ.
 
