@@ -1,8 +1,11 @@
 # 👋 Chào bạn đến với GitHub của tôi!
 
 ## 👤 **Thông tin về tôi**
+
+Tôi là một người đam mê dữ liệu và AI. Đây là avatar động của tôi 👇
+
 <div align="center">
-  <img src="https://i.imgur.com/TpYuBS7.gif" width="150" height="100" style="border-radius: 50%;" />
+  <img src="[https://i.imgur.com/abc123.gif](https://i.imgur.com/TpYuBS7.gif)" style="width: 150px; height: 150px; border-radius: 50%;" />
 </div>
 
 
