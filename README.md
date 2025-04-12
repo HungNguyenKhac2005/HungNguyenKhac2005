@@ -1,8 +1,9 @@
 # 👋 Chào bạn đến với GitHub của tôi!
 
 ## 👤 **Thông tin về tôi**
-<img src="https://i.imgur.com/TpYuBS7.gif" width="150" />
-<img src="https://i.imgur.com/abc123.gif" style="width: 150px; border-radius: 50%;" />
+<div align="center">
+  <img src="https://i.imgur.com/abc123.gif" width="150" style="border-radius: 50%;" />
+</div>
 
 
 
