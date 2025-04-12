@@ -4,11 +4,15 @@
 
 Tôi là một người đam mê dữ liệu và AI. Đây là avatar động của tôi 👇
 
-<div align="center">
-  <img src="https://i.imgur.com/TpYuBS7.gif" style="width: 250px; height: 250px; border-radius: 50%;" />
-</div>
+<p align="center">
+  <img src="https://i.imgur.com/TpYuBS7.gif" width="150" height="150" style="border-radius: 50%;" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F91E4&center=true&vCenter=true&width=435&lines=Chào+mừng+đến+GitHub+của+mình!;Mình+là+AI+%2F+Data+enthusiast.;Python%2C+SQL%2C+Django%2C+và+hơn+thế+nữa!" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F91E4&center=true&vCenter=true&width=600&lines=Chào+mừng+đến+GitHub+của+mình!;Mình+là+AI+Engineer;Data+Analyst;Data+Engineer;Python%2C+C%2FC%2B%2B%2C+SQL%2C+và+hơn+thế+nữa!" alt="Typing SVG" />
+</p>
+
+
 
 
 
