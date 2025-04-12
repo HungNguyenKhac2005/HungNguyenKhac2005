@@ -1,10 +1,7 @@
-# 👋 Chào bạn đến với GitHub của tôi!
-
-## 👤 **Thông tin về tôi**
-
-Tôi là một người đam mê dữ liệu và AI. Đây là avatar động của tôi 👇
+<h1 align="center">Hi there 👋, I'm Nguyễn Khắc Hưng</h1>
 
 <p align="center">
+  <!-- 👉 Thay link avatar bên dưới bằng ảnh GIF của anh -->
   <img src="https://i.imgur.com/TpYuBS7.gif" width="150" height="150" style="border-radius: 50%;" />
 </p>
 
@@ -12,38 +9,50 @@ Tôi là một người đam mê dữ liệu và AI. Đây là avatar động c�
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F91E4&center=true&vCenter=true&width=600&lines=Chào+mừng+đến+GitHub+của+mình!;Mình+là+AI+Engineer;Data+Analyst;Data+Engineer;Python%2C+C%2FC%2B%2B%2C+SQL%2C+và+hơn+thế+nữa!" alt="Typing SVG" />
 </p>
 
+---
 
+### 🛠️ Kỹ năng chuyên môn
 
-
-
-Tôi là **[Tên của bạn]**, một **Data Developer** đam mê công nghệ và phân tích dữ liệu. Hiện tại, tôi đang học và làm việc trong lĩnh vực **AI và Machine Learning**. Mục tiêu của tôi là xây dựng những giải pháp dữ liệu mạnh mẽ và giúp các công ty giải quyết các vấn đề thực tế bằng công nghệ.
-
-### 📚 Kỹ năng
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Django](https://img.shields.io/badge/-Django-092D1F?style=flat-square&logo=django&logoColor=white)](https://www.djangoproject.com/)
-[![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-
-### 📊 **GitHub Activity**
-
-![GitHub Activity](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide=prs&count_private=true&theme=radical)
-
-### 📅 **Biểu đồ commit**
-
-![Commit Chart](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)
-
-## 📝 **Liên hệ với tôi**
-- Email: [email@example.com](mailto:email@example.com)
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
-- CV: [Tải CV của tôi](https://your-website.com/cv)
-
-## 🎯 **Mục tiêu nghề nghiệp**
-Mục tiêu của tôi là trở thành **AI Engineer**, phát triển các mô hình học máy và giải pháp AI để giải quyết các vấn đề thực tế trong lĩnh vực **Data Science và Machine Learning**.
-
-## 💼 **Nút Hire Me**
-
-[![Hire Me](https://img.shields.io/badge/Hire%20Me-%23ff1493?style=for-the-badge&logo=hireable&logoColor=white)](https://your-website.com/hire-me)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-2E3A59?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dash-00ADB5?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pygame-000000?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
 ---
 
-Cảm ơn bạn đã ghé thăm GitHub của tôi! 😊
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HungNguyenKhac2005&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hunghocgioi&theme=radical&hide_border=true" width="48%" />
+</p>
+
+---
+
+### 📈 Biểu đồ hoạt động
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hunghocgioi&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+### 💼 Hire me!
+
+<p align="center">
+  <a href="https://your-cv-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/Hire%20Me-Portfolio-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" />
+  </a>
+</p>
