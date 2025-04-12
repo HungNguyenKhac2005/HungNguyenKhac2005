@@ -5,7 +5,7 @@
 Tôi là một người đam mê dữ liệu và AI. Đây là avatar động của tôi 👇
 
 <div align="center">
-  <img src="https://i.imgur.com/TpYuBS7.gif" style="width: 150px; height: 150px; border-radius: 50%;" />
+  <img src="https://i.imgur.com/TpYuBS7.gif" style="width: 250px; height: 250px; border-radius: 50%;" />
 </div>
 
 
