@@ -52,7 +52,7 @@
 ### 💼 Hire me!
 
 <p align="center">
-  <a href="https://your-cv-link.com" target="_blank">
+  <a href="https://drive.google.com/drive/folders/1ytKPDg-L2k-95AUDHsOIhLuR7CVZgzm-" target="_blank">
     <img src="https://img.shields.io/badge/Hire%20Me-Portfolio-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" />
   </a>
 </p>
