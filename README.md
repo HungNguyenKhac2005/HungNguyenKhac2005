@@ -9,9 +9,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F91E4&center=true&vCenter=true&width=600&lines=Chào+mừng+đến+GitHub+của+mình!;Mình+là+AI+Engineer;Data+Analyst;Data+Engineer;Python%2C+C%2FC%2B%2B%2C+SQL%2C+và+hơn+thế+nữa!" alt="Typing SVG" />
 </p>
 
-
-
-
 ### 📚 **Về Tôi**
 
 Chào bạn, tôi là **Nguyễn Khắc Hưng**. Tôi là sinh viên nghành **khoa học dữ liệu và trí tuệ nhân tạo** , đam mê lĩnh vực **AI, Data Science**, và đang theo đuổi sự nghiệp **AI Engineer**. Với nền tảng vững về **Python, C/C++, SQL** và các công cụ như **Pandas, Numpy, Matplotlib...**, tôi luôn mong muốn học hỏi và phát triển kỹ năng để giải quyết các bài toán thực tế trong thế giới công nghệ, Data và AI. Tôi yêu thích việc phân tích và khai thác dữ liệu, xây dựng mô hình học máy,học sâu và áp dụng các công nghệ mới vào thực tiễn. 
