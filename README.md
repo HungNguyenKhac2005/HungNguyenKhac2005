@@ -64,4 +64,10 @@ Hiện tại, tôi đang tìm kiếm cơ hội thực tập **Data Analyst** ho�
   </a>
 </p>
 
+## 📈 Dự án nổi bật
+
+<a href="https://github.com/HungNguyenKhac2005/Phones-sales-data-analyst">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HungNguyenKhac2005&repo=Phones-sales-data-analyst&theme=tokyonight&hide_border=true" />
+</a>
+
 
