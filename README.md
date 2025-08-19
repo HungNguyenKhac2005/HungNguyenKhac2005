@@ -84,6 +84,9 @@ Hiện tại, tôi đang tìm kiếm cơ hội thực tập **Data Analyst** ho�
   <a href="https://github.com/HungNguyenKhac2005/match-win-percentage-prediction-model">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=HungNguyenKhac2005&repo=match-win-percentage-prediction-model&theme=radical&hide_border=true" />
   </a>
+  <a href="https://github.com/HungNguyenKhac2005/Power-BI-Dashboard-Projects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HungNguyenKhac2005&repo=Power-BI-Dashboard-Projects&theme=radical&hide_border=true" />
+  </a>
 </div>
 
 
