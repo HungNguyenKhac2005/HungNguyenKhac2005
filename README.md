@@ -13,7 +13,7 @@
 
 Chào bạn, tôi là **Nguyễn Khắc Hưng**. Tôi là sinh viên nghành **khoa học dữ liệu** , đam mê lĩnh vực **AI, Data Science**, và đang theo đuổi sự nghiệp **Data Analyst**. Với nền tảng vững về **Python, SQL** và các công cụ như **Pandas, Numpy, Matplotlib...**, tôi luôn mong muốn học hỏi và phát triển kỹ năng để giải quyết các bài toán thực tế trong thế giới công nghệ, Data và AI. Tôi yêu thích việc phân tích và khai thác dữ liệu, xây dựng mô hình học máy,học sâu và áp dụng các công nghệ mới vào thực tiễn. 
 
-Hiện tại, tôi đang tìm kiếm cơ hội thực tập **Data Analyst** hoặc **Analytic Engineer** để phát triển sự nghiệp của mình. Ngoài công việc chính, tôi còn tham gia các dự án cá nhân về **Django, Dash, Streamlit** để cải thiện kỹ năng phát triển web và các công cụ phân tích dữ liệu, tôi thường xuyên tham gia vào các hoạt động nghiên cứu khoa học cùng các giảng viên tại lab của trường , tham gia vào các dự án liên trường đại học
+Hiện tại, tôi đang tìm kiếm cơ hội thực tập **Data Analyst** hoặc **Analytics Engineer** để phát triển sự nghiệp của mình. Ngoài công việc chính, tôi còn tham gia các dự án cá nhân về **Django, Dash, Streamlit** để cải thiện kỹ năng phát triển web và các công cụ phân tích dữ liệu, tôi thường xuyên tham gia vào các hoạt động nghiên cứu khoa học cùng các giảng viên tại lab của trường , tham gia vào các dự án liên trường đại học
 
 ---
 
