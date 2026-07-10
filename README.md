@@ -39,7 +39,7 @@ Hiện tại, tôi đang tìm kiếm cơ hội thực tập **Data Analyst** ho�
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HungNguyenKhac2005&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HungNguyenKhac2005&show_icons=true&theme=radical&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=HungNguyenKhac2005&theme=radical&hide_border=true" width="48%" />
 </p>
 
@@ -68,30 +68,30 @@ Hiện tại, tôi đang tìm kiếm cơ hội thực tập **Data Analyst** ho�
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=HungNguyenKhac2005&repo=Grocery-Inventory-Analytics&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/HungNguyenKhac2005/Student-Performent-SQL-Analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HungNguyenKhac2005&repo=Student-Performent-SQL-Analysis&theme=radical&hide_border=true" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=HungNguyenKhac2005&repo=Student-Performent-SQL-Analysis&theme=radical&hide_border=true" />
   </a>
   <a href="https://github.com/HungNguyenKhac2005/teen-mental-health-social-media-analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HungNguyenKhac2005&repo=teen-mental-health-social-media-analysis&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=HungNguyenKhac2005&repo=teen-mental-health-social-media-analysis&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/HungNguyenKhac2005/Predictive-classification-model-for-people-with-diabetes">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HungNguyenKhac2005&repo=Predictive-classification-model-for-people-with-diabetes&theme=radical&hide_border=true" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=HungNguyenKhac2005&repo=Predictive-classification-model-for-people-with-diabetes&theme=radical&hide_border=true" />
   </a>
   <a href="https://github.com/HungNguyenKhac2005/match-win-percentage-prediction-model">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HungNguyenKhac2005&repo=match-win-percentage-prediction-model&theme=radical&hide_border=true" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=HungNguyenKhac2005&repo=match-win-percentage-prediction-model&theme=radical&hide_border=true" />
   </a>
   <a href="https://github.com/HungNguyenKhac2005/Pharmacy-Sales-Analysis-Excel">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HungNguyenKhac2005&repo=Pharmacy-Sales-Analysis-Excel&theme=radical&hide_border=true" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=HungNguyenKhac2005&repo=Pharmacy-Sales-Analysis-Excel&theme=radical&hide_border=true" />
   </a>
   <a href="https://github.com/HungNguyenKhac2005/Amazon-Sales-Analysis-Excel">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HungNguyenKhac2005&repo=Amazon-Sales-Analysis-Excel&theme=radical&hide_border=true" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=HungNguyenKhac2005&repo=Amazon-Sales-Analysis-Excel&theme=radical&hide_border=true" />
   </a>
   <a href="https://github.com/HungNguyenKhac2005/Bitcoin-Volatility-Time-Series-Forecasting">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HungNguyenKhac2005&repo=Bitcoin-Volatility-Time-Series-Forecasting&theme=radical&hide_border=true" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=HungNguyenKhac2005&repo=Bitcoin-Volatility-Time-Series-Forecasting&theme=radical&hide_border=true" />
   </a>
   <a href="https://github.com/HungNguyenKhac2005/logistics-and-sales-dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HungNguyenKhac2005&repo=logistics-and-sales-dashboard&theme=radical&hide_border=true" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=HungNguyenKhac2005&repo=logistics-and-sales-dashboard&theme=radical&hide_border=true" />
   </a>
   <a href="https://github.com/HungNguyenKhac2005/amazon-sales-dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HungNguyenKhac2005&repo=amazon-sales-dashboard&theme=radical&hide_border=true" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=HungNguyenKhac2005&repo=amazon-sales-dashboard&theme=radical&hide_border=true" />
   </a>
 </div>
